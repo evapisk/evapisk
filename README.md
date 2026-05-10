@@ -25,9 +25,9 @@ I'm a CS student at **NYU** who thinks the best products feel as intentional as 
 | Project | Description | Stack |
 |---|---|---|
 | **[MMM](https://modernmatmethod.com)** | Multi-campus Pilates platform with Stripe Connect payments | Next.js · Stripe · Vercel |
-| **Be1_Space** | NYU study spot finder with real-time availability | Next.js · FastAPI · Supabase · Railway |
-| **Brew** | Skill-swap coffee chat app using Anthropic + Linkup APIs | React · FastAPI · Anthropic API |
-| **enerME** | AI energy analytics dashboard (hackathon, 2nd place) | React · Python |
+| **[Be1_Space](https://be1space.vercel.app/)** | NYU study spot finder with real-time availability | Next.js · FastAPI · Supabase · Railway |
+| **[Brew](https://brewapp-teal.vercel.app/)** | Skill-swap coffee chat app using Anthropic + Linkup APIs | React · FastAPI · Anthropic API |
+| **[enerME](https://enerme.vercel.app/)** | AI energy analytics dashboard (hackathon, 2nd place) | React · Python |
 
 ---
 
