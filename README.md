@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=36&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=hi%2C+i'm+eva+%F0%9F%A4%8D;cs+%40+nyu+%E2%80%A2+class+of+'29;building+at+the+intersection+of+tech+%26+taste" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=36&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eva+%F0%9F%90%88;CS+%40+NYU+CAS+%E2%80%A2+Class+of+'29;Building+at+the+intersection+of+tech+%26+taste" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### about me
+### About me
 
-i'm a cs student at **NYU** who thinks the best products feel as intentional as a good outfit. i build full-stack apps, obsess over details, and believe that taste is a technical skill.
+I'm a cs student at **NYU** who thinks the best products feel as intentional as a good outfit. I build full-stack apps with extreme attention to detail, and believe that taste is a technical skill.
 
-- 🎓 studying computer science @ NYU Tandon, class of 2029
-- 👗 deeply interested in **fashion, lifestyle, and the culture around them**
-- 🛠️ sole engineer for [The Modern Mat Method](https://modernmatmethod.com) — a multi-campus Pilates platform
+- 🎓 Studying computer science @ NYU CAS, class of 2029
+- 👗 Deeply interested in **fashion, lifestyle, and the culture around them**
+- 🛠️ Sole engineer for [The Modern Mat Method](https://modernmatmethod.com) — a multi-campus Pilates platform
 - 🏆 2nd place @ Ruth AI Hackathon (Hearst Lab) — built **enerME**, an AI energy analytics dashboard
-- 🌱 active in **Tech@NYU**, hackathon regular, future PM
+- 🌱 Active in **Tech@NYU**, hackathon regular
 
 ---
 
-### things i've built
+### Things I've built
 
-| project | description | stack |
+| Project | Description | Stack |
 |---|---|---|
 | **[MMM](https://modernmatmethod.com)** | multi-campus Pilates platform with Stripe Connect payments | Next.js · Stripe · Vercel |
 | **Be1_Space** | NYU study spot finder with real-time availability | Next.js · FastAPI · Supabase · Railway |
@@ -29,30 +29,30 @@ i'm a cs student at **NYU** who thinks the best products feel as intentional as 
 
 ---
 
-### stack
+### Stack
 
 ```
-languages    →   Python · TypeScript · JavaScript · Java · SQL
-frontend     →   React · Next.js · Tailwind · GSAP
-backend      →   FastAPI · Node.js · PostgreSQL · Supabase
-tools        →   Stripe · Mux · Vercel · Railway · Git
+Languages    →   Python · TypeScript · JavaScript · Java · SQL
+Frontend     →   React · Next.js · Tailwind · GSAP
+Backend      →   FastAPI · Node.js · PostgreSQL · Supabase
+Tools        →   Stripe · Mux · Vercel · Railway · Git
 ```
 
 ---
 
-### the other side
+### The other side
 
-when i'm not pushing commits, you'll find me:
+When I'm not pushing commits, you'll find me:
 
-- curating a wardrobe like it's a side project (sustainable + vintage first)
-- thinking about how luxury brands build digital experiences
-- reading about the intersection of tech, culture, and how people live
+- Curating my closet like it's a side project (small brands + vintage)
+- Thinking about how luxury brands build digital experiences
+- Scrolling @databutmakeitfashion and The All Things Fashion Tech substack
 
-i think the future of great software looks a lot like great fashion — **functional, intentional, and made for real people.**
+I think the future of great software looks **functional, intentional, and made for real people.**
 
 ---
 
-### let's connect
+### Let's connect!
 
 <div align="center">
 
