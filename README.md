@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=36&duration=3000&pause=1000&color=eff5fb&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eva+%F0%9F%90%88;CS+%40+NYU+CAS+%E2%80%A2+Class+of+'29;Building+at+the+intersection+of+tech+%26+taste" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=36&duration=3000&pause=1000&color=eff5fb&center=true&vCenter=true&width=600&lines=CS+%40+NYU+CAS+%E2%80%A2+Class+of+'29;Building+at+the+intersection+of+tech+%26+taste" alt="Typing SVG" />
 
 </div>
 
@@ -40,13 +40,13 @@ Tools        →   Stripe · Mux · Vercel · Railway · Git
 
 ---
 
-### The other side
+### Besides coding
 
 When I'm not pushing commits, you'll find me:
 
 - Curating my closet like it's a side project (small brands + vintage)
-- Thinking about how luxury brands build digital experiences
 - Scrolling @databutmakeitfashion and The All Things Fashion Tech substack
+- Spending quality time w/ my cats 🐈‍⬛
 
 I think the future of great software looks **functional, intentional, and made for real people.**
 
