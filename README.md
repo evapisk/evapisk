@@ -64,7 +64,7 @@ I'm a CS student at **NYU** who thinks the best products feel as intentional as 
 When I'm not pushing commits, you'll find me:
 
 - Curating my closet like it's a side project (small brands + vintage)
-- Scrolling @databutmakeitfashion and The All Things Fashion Tech substack
+- Scrolling @databutmakeitfashion and the All Things Fashion Tech substack
 - Spending quality time w/ my cats 🐈‍⬛
 
 I think the future of great software looks **functional, intentional, and made for real people.**
