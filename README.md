@@ -85,19 +85,3 @@ I think the future of great software looks **functional, intentional, and made f
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=evapisk&show_icons=true&theme=graywhite&hide_border=true&title_color=1a1a1a&text_color=444&icon_color=1a1a1a" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evapisk&layout=compact&theme=graywhite&hide_border=true&title_color=1a1a1a&text_color=444" height="150"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=evapisk&theme=transparent&hide_border=true&stroke=444&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a&sideLabels=444&dates=999" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=evapisk&theme=flat&no-frame=true&row=1&column=6" />
-
-</div>
