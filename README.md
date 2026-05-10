@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=36&duration=3000&pause=1000&color=eff5fb&center=true&vCenter=true&width=600&lines=Eva+Piskun;CS+%40+NYU+CAS+%E2%80%A2+Class+of+'29;Building+at+the+intersection+of+tech+%26+taste" alt="Typing SVG" />
-
 </div>
 
 ---
